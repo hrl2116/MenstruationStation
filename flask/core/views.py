@@ -2,4 +2,4 @@ from core import app
 
 @app.route('/')
 def index():
-    return 'Hello Menstruators!!!'
+    return 'Hello to all who menstruate'
